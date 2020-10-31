@@ -4,7 +4,7 @@
       
   ### Status and Technology
       
-  This Project under Process. The language used in the project is Java and Java EE fundamentals. For development, I have used the Eclipse IDE. 
+  This is Project under Process. The language used in the project is Java and Java EE fundamentals. For development, I have used the Eclipse IDE. 
   This Web-based application is based on a powerful Web framework of java known as the Spring Web MVC framework.
      
   For graph representation, I have used the Chart.js library. 

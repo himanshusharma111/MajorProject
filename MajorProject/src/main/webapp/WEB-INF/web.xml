@@ -1,0 +1,21 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+  
+  
+  <servlet>
+		<!-- u can declare any name to the servletname -->
+		<servlet-name>SpringMVCmajor</servlet-name>
+		<servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class> <!-- ctrl+shift+t -->
+	</servlet>
+	
+	<servlet-mapping>
+		<servlet-name>SpringMVCmajor</servlet-name>
+		<!-- which kind of request controll by servlet-class  -->
+		<url-pattern>/</url-pattern> <!-- and if /spring/ - handle the url which starts from spring-->
+	</servlet-mapping>
+	
+</web-app>

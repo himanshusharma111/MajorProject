@@ -18,7 +18,7 @@
    Understand the basics of the Spring Framework. How to design pattern works. 
       
 
-   ### Why Java and their sub-technologies (Java EE) and others 
+   ### Why Java their sub-technologies (Java EE) and other 
       
    Spring follows some of the specifications from Java EE and overrides with better options. It is a standalone framework built on top of Java EE technology.
    I used the Spring Framework because it uses Model–view–controller software design pattern and most of the complex and big project is using architecture like this, backbone 	      makes the project understandable, reusable, plus modify any module easily. 

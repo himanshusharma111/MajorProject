@@ -9,7 +9,8 @@
      
   For graph representation, I have used the Chart.js library. 
   
-  For storing the data using Firebase cloud Firestore NO SQL database. 
+  Firebase cloud Firestore NO SQL database for storing data. 
+  
      
      
    ### Motive

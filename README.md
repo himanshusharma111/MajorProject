@@ -17,7 +17,7 @@
       
    Fetching the data from google cloud firestore and view that data on the Web page in the form of Graph.
    User can see the data in the form of dynamic graph visualization. 
-   Understand the basics of the Spring Framework. How to design pattern works. 
+   Understand the basics of the Spring Framework. How design pattern works. 
       
 
    ### Why Java their sub-technologies (Java EE) and other 

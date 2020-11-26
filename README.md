@@ -1,10 +1,10 @@
   # Dynamic Graph Representation web-based application. 
   
-  ## Interaction between google cloud Firestore and Java   
+  ## Interaction between google cloud Firebase Firestore and Java   
       
   ### Status and Technology
       
-  This is Project under Process. The language used in the project is Java and Java EE fundamentals. For development, I have used the Eclipse IDE. 
+  This Project front-end part is under the Process and back-part is ready. The language used in the project is Java and Java EE fundamentals. For development, I have used the Eclipse IDE. 
   This Web-based application is based on a powerful Web framework of java known as the Spring Web MVC framework.
      
   For graph representation, I have used the Chart.js library. 
@@ -17,7 +17,8 @@
       
    Fetching the data from google cloud firestore and view that data on the Web page in the form of Graph.
    User can see the data in the form of dynamic graph visualization. 
-   Understand the basics of the Spring Framework. How design pattern works. 
+   Understand the basics of the Spring Framework. 
+   To understand How design pattern works. 
       
 
    ### Why Java their sub-technologies (Java EE) and other 

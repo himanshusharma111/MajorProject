@@ -1,6 +1,6 @@
   # Dynamic Graph Representation web-based application. 
   
-  ## Interaction between google cloud Firebase Firestore and Java   
+  ## Integration of spring with firebase firestore.
       
   ### Status and Technology
       
